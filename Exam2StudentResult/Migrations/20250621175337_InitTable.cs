@@ -5,7 +5,7 @@
 namespace Exam2StudentResult.Migrations
 {
     /// <inheritdoc />
-    public partial class StudentTableInit : Migration
+    public partial class InitTable : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

@@ -15,4 +15,9 @@
         JavaScript,
         Ruby
     }
+    public  class StatusFilter    
+    {
+        public  ResultStatus resultStatus { get; set; } 
+
+    }
 }

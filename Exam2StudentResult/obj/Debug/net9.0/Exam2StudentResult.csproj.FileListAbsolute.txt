@@ -335,3 +335,5 @@ C:\CSharp_Ostad\Exam2StudentResult\Exam2StudentResult\bin\Debug\net9.0\ru\Micros
 C:\CSharp_Ostad\Exam2StudentResult\Exam2StudentResult\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\CSharp_Ostad\Exam2StudentResult\Exam2StudentResult\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\CSharp_Ostad\Exam2StudentResult\Exam2StudentResult\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CSharp_Ostad\Exam2StudentResult\Exam2StudentResult\bin\Debug\net9.0\AutoMapper.dll
+C:\CSharp_Ostad\Exam2StudentResult\Exam2StudentResult\obj\Debug\net9.0\Exam2StudentResult.sourcelink.json

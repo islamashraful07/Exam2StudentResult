@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Exam2StudentResult.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20250621172605_StudentTableInit")]
-    partial class StudentTableInit
+    [Migration("20250621175337_InitTable")]
+    partial class InitTable
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

@@ -1,4 +1,5 @@
-﻿@model IEnumerable<Exam2StudentResult.Models.ViewModels.StudentModel>
+﻿@using Exam2StudentResult.Models.Entities
+@model IEnumerable<Exam2StudentResult.Models.ViewModels.StudentModel>
 
 @{
     ViewData["Title"] = "View";
@@ -9,6 +10,15 @@
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+<form method="Post" asp-action="SearchedResult" asp-controller="Result" class="row g-2 mb-4">
+    
+    <div class="col-md-5">
+        <select class="form-control" name="ResultStatus" asp-items="Html.GetEnumSelectList<ResultStatus>()"></select>
+    </div>
+    <div class="col-md-2 d-grid">
+        <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+</form>
 <table class="table">
     <thead>
         <tr>
@@ -31,9 +41,9 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
-            <td>
+           @*  <td>
                 @Html.DisplayFor(modelItem => item.Id)
-            </td>
+            </td> *@
             <td>
                 @Html.DisplayFor(modelItem => item.Name)
             </td>

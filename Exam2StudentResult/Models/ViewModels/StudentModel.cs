@@ -21,7 +21,7 @@ namespace Exam2StudentResult.Models.ViewModels
                 {
                     if (Marks >= 80)
                         return ResultStatus.Excellent;
-                    else if (Marks < 75 || Marks >50)
+                    else if (Marks >= 50 && Marks < 80 )
                         return ResultStatus.Good;
                     else
                         return ResultStatus.NeedsImprovement;

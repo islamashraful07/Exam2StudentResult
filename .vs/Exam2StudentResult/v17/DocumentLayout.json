@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "C:\\CSharp_Ostad\\Exam2StudentResult\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|c:\\csharp_ostad\\exam2studentresult\\exam2studentresult\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|solutionrelative:exam2studentresult\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|c:\\csharp_ostad\\exam2studentresult\\exam2studentresult\\views\\result\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|solutionrelative:exam2studentresult\\views\\result\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|c:\\csharp_ostad\\exam2studentresult\\exam2studentresult\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|solutionrelative:exam2studentresult\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|c:\\csharp_ostad\\exam2studentresult\\exam2studentresult\\views\\result\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|solutionrelative:exam2studentresult\\views\\result\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|c:\\csharp_ostad\\exam2studentresult\\exam2studentresult\\models\\entities\\resultstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|solutionrelative:exam2studentresult\\models\\entities\\resultstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|c:\\csharp_ostad\\exam2studentresult\\exam2studentresult\\models\\viewmodels\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|solutionrelative:exam2studentresult\\models\\viewmodels\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|c:\\csharp_ostad\\exam2studentresult\\exam2studentresult\\views\\result\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|solutionrelative:exam2studentresult\\views\\result\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|c:\\csharp_ostad\\exam2studentresult\\exam2studentresult\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|solutionrelative:exam2studentresult\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|c:\\csharp_ostad\\exam2studentresult\\exam2studentresult\\models\\viewmodels\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|solutionrelative:exam2studentresult\\models\\viewmodels\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|c:\\csharp_ostad\\exam2studentresult\\exam2studentresult\\models\\entities\\resultstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|solutionrelative:exam2studentresult\\models\\entities\\resultstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|c:\\csharp_ostad\\exam2studentresult\\exam2studentresult\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|solutionrelative:exam2studentresult\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|c:\\csharp_ostad\\exam2studentresult\\exam2studentresult\\controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|solutionrelative:exam2studentresult\\controllers\\resultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Migrations\\20250621172605_StudentTableInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exam2StudentResult\\Migrations\\20250621172605_StudentTableInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|c:\\csharp_ostad\\exam2studentresult\\exam2studentresult\\data\\custommapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|solutionrelative:exam2studentresult\\data\\custommapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|c:\\csharp_ostad\\exam2studentresult\\exam2studentresult\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|solutionrelative:exam2studentresult\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Migrations\\20250621175337_InitTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exam2StudentResult\\Migrations\\20250621175337_InitTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Migrations\\20250621180803_AdditionalStatusColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exam2StudentResult\\Migrations\\20250621180803_AdditionalStatusColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44349DA2-EC97-453A-BB2F-0ECFBDBE9332}|Exam2StudentResult\\Exam2StudentResult.csproj|c:\\csharp_ostad\\exam2studentresult\\exam2studentresult\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -50,24 +58,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "20250621180803_AdditionalStatusColumn.cs",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Migrations\\20250621180803_AdditionalStatusColumn.cs",
+              "RelativeDocumentMoniker": "Exam2StudentResult\\Migrations\\20250621180803_AdditionalStatusColumn.cs",
+              "ToolTip": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Migrations\\20250621180803_AdditionalStatusColumn.cs",
+              "RelativeToolTip": "Exam2StudentResult\\Migrations\\20250621180803_AdditionalStatusColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T18:08:04.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250621175337_InitTable.cs",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Migrations\\20250621175337_InitTable.cs",
+              "RelativeDocumentMoniker": "Exam2StudentResult\\Migrations\\20250621175337_InitTable.cs",
+              "ToolTip": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Migrations\\20250621175337_InitTable.cs",
+              "RelativeToolTip": "Exam2StudentResult\\Migrations\\20250621175337_InitTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:53:38.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomMapper.cs",
+              "DocumentMoniker": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Data\\CustomMapper.cs",
+              "RelativeDocumentMoniker": "Exam2StudentResult\\Data\\CustomMapper.cs",
+              "ToolTip": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Data\\CustomMapper.cs",
+              "RelativeToolTip": "Exam2StudentResult\\Data\\CustomMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T17:49:15.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Views\\Result\\Index.cshtml",
               "RelativeDocumentMoniker": "Exam2StudentResult\\Views\\Result\\Index.cshtml",
               "ToolTip": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Views\\Result\\Index.cshtml",
               "RelativeToolTip": "Exam2StudentResult\\Views\\Result\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-21T17:40:03.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Views\\Result\\Create.cshtml",
               "RelativeDocumentMoniker": "Exam2StudentResult\\Views\\Result\\Create.cshtml",
@@ -80,39 +127,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250621172605_StudentTableInit.cs",
-              "DocumentMoniker": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Migrations\\20250621172605_StudentTableInit.cs",
-              "RelativeDocumentMoniker": "Exam2StudentResult\\Migrations\\20250621172605_StudentTableInit.cs",
-              "ToolTip": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Migrations\\20250621172605_StudentTableInit.cs",
-              "RelativeToolTip": "Exam2StudentResult\\Migrations\\20250621172605_StudentTableInit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T17:26:05.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Exam2StudentResult\\Data\\DataContext.cs",
               "ToolTip": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Data\\DataContext.cs",
               "RelativeToolTip": "Exam2StudentResult\\Data\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T17:23:44.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Program.cs",
               "RelativeDocumentMoniker": "Exam2StudentResult\\Program.cs",
               "ToolTip": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Program.cs",
               "RelativeToolTip": "Exam2StudentResult\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T17:12:00.948Z",
               "EditorCaption": ""
@@ -125,59 +159,59 @@
               "RelativeDocumentMoniker": "Exam2StudentResult\\Models\\ViewModels\\StudentModel.cs",
               "ToolTip": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Models\\ViewModels\\StudentModel.cs",
               "RelativeToolTip": "Exam2StudentResult\\Models\\ViewModels\\StudentModel.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T17:21:25.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ResultStatus.cs",
               "DocumentMoniker": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Models\\Entities\\ResultStatus.cs",
               "RelativeDocumentMoniker": "Exam2StudentResult\\Models\\Entities\\ResultStatus.cs",
               "ToolTip": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Models\\Entities\\ResultStatus.cs",
               "RelativeToolTip": "Exam2StudentResult\\Models\\Entities\\ResultStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T17:16:41.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Models\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "Exam2StudentResult\\Models\\Entities\\Student.cs",
               "ToolTip": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Models\\Entities\\Student.cs",
               "RelativeToolTip": "Exam2StudentResult\\Models\\Entities\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T17:15:23.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ResultController.cs",
               "DocumentMoniker": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Controllers\\ResultController.cs",
               "RelativeDocumentMoniker": "Exam2StudentResult\\Controllers\\ResultController.cs",
               "ToolTip": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\Controllers\\ResultController.cs",
               "RelativeToolTip": "Exam2StudentResult\\Controllers\\ResultController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-21T17:12:29.345Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\appsettings.json",
               "RelativeDocumentMoniker": "Exam2StudentResult\\appsettings.json",
               "ToolTip": "C:\\CSharp_Ostad\\Exam2StudentResult\\Exam2StudentResult\\appsettings.json",
               "RelativeToolTip": "Exam2StudentResult\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-21T17:09:17.549Z",
               "EditorCaption": ""
